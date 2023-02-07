@@ -12,11 +12,13 @@ with col2:
     Hello, I'm Dee, and I'm an aspiring Data Scientist. I have a passion for
     working with data to reveal powerful and impactful new insights. I'm driven
     to solve problems and to always be learning new things. 
-    I have a B.Sc. in Computer Science and have developed my skills in data
+    I have a B.Sc. in Computer Science and have developed advanced skills in data
     analysis, data cleaning/wrangling, machine learning, and data visualization.
-    I primarily work with Python but I am also a competent Java programmer. 
+    I primarily work in Python but I am also a competent Java programmer. 
     """
     st.write(about_me)
+
+st.write("")
 
 site_about = """
 This site is to highlight some of my coding and data projects.

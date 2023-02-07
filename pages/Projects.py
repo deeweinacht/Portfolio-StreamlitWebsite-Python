@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 st.set_page_config(page_title='portfolio', layout='wide')
-data = pd.read_csv('files/data.csv')
+data = pd.read_csv('files/project_data.csv')
 
 st.title('Projects')
 st.write('Check out some of my coding and data projects:')
