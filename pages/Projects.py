@@ -3,11 +3,10 @@ import pandas as pd
 import os
 
 st.set_page_config(page_title='portfolio', layout='wide')
-data = pd.read_csv('data.csv')
+data = pd.read_csv('files/data.csv')
 
 st.title('Projects')
 st.write('Check out some of my coding and data projects:')
-
 
 
 for index, row in data.iterrows():

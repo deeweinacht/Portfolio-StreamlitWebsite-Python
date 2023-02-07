@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title='homepage', layout='wide')
+st.set_page_config(page_title='Homepage', layout='wide')
 col1, col2 = st.columns(2)
 
 
