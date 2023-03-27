@@ -8,17 +8,17 @@ with open('data/python_projects.JSON', 'r') as file:
 
 st.title('Python projects')
 st.markdown('**Check out some of my coding projects written in Python:**')
-st.write("---")
 
 for project in data:
+    st.write("---")
     st.subheader(project['name'])
     col1, col2 = st.columns(2)
     with col1:
         st.image('images/' + project['image'])
-        st.caption(project['url'])
+        st.markdown(f"[GitHub repository]({project['url']})")
     with col2:
 
         st.markdown('**' + project['description'] + '**')
         for skill in project['skills']:
             st.markdown('- ' + skill)
-    st.write("---")
+
