@@ -1,3 +1,5 @@
 title,description,url,image
+
 PDF Invoice Generator,This application generates formatted PDF invoices from Excel documents.,https://github.com/deeweinacht/PDFInvoiceGenerator-automation-Python,documents.jpg
 Simple Task List,A very basic task list with three different interface options.,https://github.com/deeweinacht/tasklist-gui-python,task list.jpg
+Weather Forecaster, This web application provides a visual dashboard of the upcoming weather for any given city.,https://github.com/deeweinacht/WeatherForecaster-WebApp-Python,

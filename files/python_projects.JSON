@@ -1,0 +1,72 @@
+[
+  {
+    "name": "",
+    "image": "",
+    "description": "",
+    "skills":
+      [
+
+      ],
+    "url": ""
+  },
+  {
+    "name": "",
+    "image": "",
+    "description": "",
+    "skills":
+      [
+
+      ],
+    "url": ""
+  },
+  {
+    "name": "",
+    "image": "",
+    "description": "",
+    "skills":
+      [
+
+      ],
+    "url": ""
+  },
+  {
+    "name": "Weather Forecaster",
+    "image": "weather.jpg",
+    "description": "This web application provides a visual dashboard of the upcoming weather for any given city.",
+    "skills":
+      [
+        "Web programming",
+        "APIs",
+        "Project structure",
+        "Streamlit",
+        "Plotly"
+      ],
+    "url": "https://github.com/deeweinacht/WeatherForecaster-WebApp-Python"
+  },
+  {
+    "name": "PDF Invoice Generator",
+    "image": "documents.jpg",
+    "description": "This application generates formatted PDF invoices from Excel documents.",
+    "skills":
+      [
+        "File input/output",
+        "Text parsing",
+        "Visual layouts",
+        "Pandas"
+      ],
+    "url": "https://github.com/deeweinacht/PDFInvoiceGenerator-automation-Python"
+  },
+  {
+    "name": "Simple Task List",
+    "image": "task list.jpg",
+    "description": "A very basic task list with three different interface options.",
+    "skills":
+      [
+        "Command-line interfaces",
+        "Graphical user interfaces",
+        "Web applications",
+        "Version control"
+      ],
+    "url": "https://github.com/deeweinacht/tasklist-gui-python"
+  }
+]
