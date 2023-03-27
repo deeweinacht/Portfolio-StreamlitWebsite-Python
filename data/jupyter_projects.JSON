@@ -1,0 +1,17 @@
+[
+
+  {
+    "name": "Sentiment Analysis of Moby Dick",
+    "image": "whale.png",
+    "description": "This is a Jupyter Notebook that investigates the content of Moby Dick and performs a sentiment analysis.",
+    "skills":
+      [
+        "Natural language processing",
+        "Sentiment analysis",
+        "Regular expressions",
+        "Data visualization",
+        "nltk, numpy, matplotlib, and wordcloud libraries"
+      ],
+    "url": "https://github.com/deeweinacht/BookSentimentAnalysis-NLP-Python"
+  }
+]
