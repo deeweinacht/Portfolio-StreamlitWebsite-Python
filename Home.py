@@ -21,7 +21,6 @@ with col2:
 st.write("")
 
 site_about = """
-This site is to highlight some of my coding and data projects.
-Please take some time to look around!
+This site is to highlight some of my personal projects, please take some time to look around!
 """
 st.write(site_about)
