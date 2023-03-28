@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 
-st.set_page_config(page_title='portfolio', layout='wide')
+st.set_page_config(page_title='Dee Weinacht - Python', layout='wide')
 with open('data/python_projects.JSON', 'r') as file:
     data = json.load(file)
 

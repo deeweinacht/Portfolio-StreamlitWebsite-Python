@@ -1,12 +1,12 @@
 import streamlit as st
 import json
 
-st.set_page_config(page_title='Portfolio', layout='wide')
+st.set_page_config(page_title='Dee Weinacht - Data Science', layout='wide')
 with open('data/jupyter_projects.JSON', 'r') as file:
     data = json.load(file)
 
 st.title('Data Science Projects')
-st.markdown('**Check out some of my data science projects created in Jupyter Lab:**')
+st.markdown('**Check out some of my data science projects created in JupyterLab:**')
 
 for project in data:
     st.write("---")

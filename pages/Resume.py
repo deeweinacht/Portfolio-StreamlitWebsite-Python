@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title='Resume', layout='wide')
+st.set_page_config(page_title='Dee Weinacht - Resume', layout='wide')
 
 st.title('My Resume')
 
