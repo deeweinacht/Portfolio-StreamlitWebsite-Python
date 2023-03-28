@@ -1,19 +1,22 @@
 import streamlit as st
-import pandas as pd
+import json
 
 st.set_page_config(page_title='Portfolio', layout='wide')
-# data = pd.read_csv('files/project_data.csv')
+with open('data/jupyter_projects.JSON', 'r') as file:
+    data = json.load(file)
 
-st.title('Data Science')
-st.write('Check out some of my data projects:')
+st.title('Data Science Projects')
+st.markdown('**Check out some of my data science projects created in Jupyter Lab:**')
 
-"""
-for index, row in data.iterrows():
+for project in data:
+    st.write("---")
+    st.subheader(project['name'])
     col1, col2 = st.columns(2)
     with col1:
-        st.image('images/' + row['image'])
+        st.image('images/' + project['image'])
+        st.markdown(f"[GitHub repository]({project['url']})")
     with col2:
-        st.subheader(row['title'])
-        st.write(row['description'])
-        st.caption(row['url'])
-"""
+
+        st.markdown('**' + project['description'] + '**')
+        for skill in project['skills']:
+            st.markdown('- ' + skill)

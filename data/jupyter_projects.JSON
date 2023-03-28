@@ -1,16 +1,45 @@
 [
-
+  {
+    "name": "Predicting Employee Attrition with HR Data",
+    "image": "hr.jpg",
+    "description": "This Jupyter Notebook generates a predictive model of employee attrition, by applying a random forest algorithm to a human resources dataset.",
+    "skills":
+      [
+        "Data cleaning and wrangling",
+        "Data analysis",
+        "Data visualization",
+        "Supervised machine learning: binary classification problem",
+        "Random Forest classifier",
+        "pandas, matplotlib, seaborn, scikit-learn, and ipywidgets libraries"
+      ],
+    "url": "https://github.com/deeweinacht/HREmployeeAttrition-DataScience-JupyterNotebook"
+  },
+  {
+    "name": "Working From Home After COVID-19",
+    "image": "wfh.jpg",
+    "description": "This data project consists of several notebooks working with a dataset created from a global survey of attitudes regarding working from home (WFH). It includes data reduction, data cleaning, and data wrangling. The resultant dataset is then used to predict a WFH employee's likelihood of returning to their worksite after COVID-19.",
+    "skills":
+      [
+        "Data reduction and cleaning",
+        "Data wrangling",
+        "Supervised machine learning: multiclass classification problem",
+        "k-Nearest Neighbor classifier",
+        "Multilayer Perceptron neural network classifier",
+        "pandas, matplotlib, scikit-learn, and imbalanced-learn libraries"
+      ],
+    "url": "https://github.com/deeweinacht/GlobalWFHAttitudes-DataScience-Jupyter"
+  },
   {
     "name": "Sentiment Analysis of Moby Dick",
     "image": "whale.png",
-    "description": "This is a Jupyter Notebook that investigates the content of Moby Dick and performs a sentiment analysis.",
+    "description": "This Jupyter Notebook makes use of the natural language toolkit to explore the content and sentiment of the book 'Moby Dick.' The analysis includes examining the structure of the book, the most frequently used words, and the sentiment of each chapter.",
     "skills":
       [
         "Natural language processing",
         "Sentiment analysis",
         "Regular expressions",
         "Data visualization",
-        "nltk, numpy, matplotlib, and wordcloud libraries"
+        "nltk, numpy, and matplotlib libraries"
       ],
     "url": "https://github.com/deeweinacht/BookSentimentAnalysis-NLP-Python"
   }
