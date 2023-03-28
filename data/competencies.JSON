@@ -1,10 +1,50 @@
 {
   "Skills":
-          [
-
-          ],
-  "Technologies":
-          [
-
-          ]
+  {
+    "Data Preprocessing":
+    [
+      "Data Cleaning",
+      "Data Profiling",
+      "Data Structuring",
+      "Data Reduction",
+      "Data Wrangling"
+    ],
+    "Data Analysis": [],
+    "Data Visualization": [],
+    "Machine Learning":
+    [
+      "Predictive Modeling",
+      "Classification Problems",
+      "Data Validation",
+      "Evaluation Metrics"
+    ],
+    "Data Management":
+    [
+      "Data Modelling",
+      "Database Design",
+      "Database Queries"
+    ],
+    "Object-Oriented Programming": []
+  },
+  "Proficiencies":
+  {
+    "Python 3":
+    [
+      "NumPy Library",
+      "Pandas Library",
+      "Scikit-Learn Library",
+      "Matplotlib Library",
+      "Seaborn Library",
+      "Plotly Library"
+    ],
+    "Relational Database Languages":
+    [
+      "MySQL",
+      "SQLite",
+      "PostgreSQL"
+    ],
+    "JupyterLab/Jupyter Notebook": [],
+    "Java 8, 11": [],
+    "Microsoft Excel": []
+  }
 }
