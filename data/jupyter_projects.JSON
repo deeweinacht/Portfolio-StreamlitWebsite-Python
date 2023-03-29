@@ -23,8 +23,8 @@
         "Data reduction and cleaning",
         "Data wrangling",
         "Supervised machine learning: multiclass classification problem",
-        "k-Nearest Neighbor classifier",
-        "Multilayer Perceptron neural network classifier",
+        "k-Nearest Neighbors (KNN) classifier",
+        "Multilayer Perceptron (MLP) neural network classifier",
         "pandas, matplotlib, scikit-learn, and imbalanced-learn libraries"
       ],
     "url": "https://github.com/deeweinacht/GlobalWFHAttitudes-DataScience-Jupyter"
