@@ -5,7 +5,7 @@ st.header('Dee Weinacht')
 
 col1, col2 = st.columns(2)
 with col1:
-    st.image('images/work in progress.jpg')
+    st.image('images/profile.jpg')
 with col2:
     st.write("##### Hi, I'm Dee, and I'm an aspiring Data Scientist. I'm driven "
                  "to learn new things and to solve challenging problems.")
