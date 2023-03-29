@@ -5,7 +5,7 @@ st.set_page_config(page_title='Dee Weinacht - Skill Set', layout='wide')
 with open('data/competencies.JSON', 'r') as file:
     data = json.load(file)
 
-st.subheader('Here is a more detailed look at my data science skill set than would fit on a resume:')
+st.write('##### Here is a more detailed look at my data science skill set than fits on a resume:')
 
 col1, padding, col2 = st.columns([2, 0.5, 2])
 
