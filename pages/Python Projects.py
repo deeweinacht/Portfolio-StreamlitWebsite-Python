@@ -6,7 +6,7 @@ with open('data/python_projects.JSON', 'r') as file:
     data = json.load(file)
 
 
-st.title('Python projects')
+st.header('Python projects')
 st.markdown('**Check out some of my coding projects written in Python:**')
 
 for project in data:
