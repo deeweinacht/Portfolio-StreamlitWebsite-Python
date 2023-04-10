@@ -14,7 +14,7 @@ for project in data:
     col1, col2 = st.columns(2)
     with col1:
         st.image('images/' + project['image'])
-        st.markdown(f"[GitHub repository]({project['url']})")
+        st.markdown(project['url'])
     with col2:
 
         st.markdown('**' + project['description'] + '**')

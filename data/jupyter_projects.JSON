@@ -12,7 +12,21 @@
         "Random Forest classifier",
         "pandas, matplotlib, seaborn, scikit-learn, and ipywidgets libraries"
       ],
-    "url": "https://github.com/deeweinacht/HREmployeeAttrition-DataScience-JupyterNotebook"
+    "url": "[Github repository](https://github.com/deeweinacht/HREmployeeAttrition-DataScience-JupyterNotebook)"
+  },
+    {
+    "name": "World Happiness Dashboard",
+    "image": "WHD.png",
+    "description": "This Tableau dashboard dynamically visualizes data from the World Happiness Report.",
+    "skills":
+      [
+        "Dynamic data visualization",
+        "Interactive dashboards",
+        "Time series data",
+        "Chloropleth maps",
+        "Tableau"
+      ],
+    "url": "[Tableau Public page](https://public.tableau.com/views/WorldHappinessDashboard_16811574516950/WHD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)"
   },
   {
     "name": "Working From Home After COVID-19",
@@ -27,7 +41,7 @@
         "Multilayer Perceptron (MLP) neural network classifier",
         "pandas, matplotlib, scikit-learn, and imbalanced-learn libraries"
       ],
-    "url": "https://github.com/deeweinacht/GlobalWFHAttitudes-DataScience-Jupyter"
+    "url": "[Github repository](https://github.com/deeweinacht/GlobalWFHAttitudes-DataScience-Jupyter)"
   },
   {
     "name": "Sentiment Analysis of Moby Dick",
@@ -41,6 +55,6 @@
         "Data visualization",
         "nltk, numpy, and matplotlib libraries"
       ],
-    "url": "https://github.com/deeweinacht/BookSentimentAnalysis-NLP-Python"
+    "url": "[Github repository](https://github.com/deeweinacht/BookSentimentAnalysis-NLP-Python)"
   }
 ]
