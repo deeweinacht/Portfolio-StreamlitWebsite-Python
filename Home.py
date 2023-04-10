@@ -7,11 +7,11 @@ col1, col2 = st.columns(2)
 with col1:
     st.image('images/profile.jpg')
 with col2:
-    st.write("##### Hi, I'm Dee, and I'm an aspiring Data Scientist. I'm driven "
+    st.write("##### Hi, I'm Dee, and I'm an aspiring Data Analyst/Scientist. I'm driven "
                  "to learn new things and to solve challenging problems.")
     about_me = """
     As a recent computer science graduate with a passion for data science I have dedicated myself to learning the 
-    latest technologies and techniques in the field, honing my skills through a combination of coursework, 
+    most powerful tools and techniques in the field, honing my skills through a combination of coursework, 
     independent learning, and personal projects. In doing so I have developed advanced skills in data preprocessing, 
     data analysis, data visualization, and machine learning. I primarily work in Python but I am also a competent Java 
     programmer. 
