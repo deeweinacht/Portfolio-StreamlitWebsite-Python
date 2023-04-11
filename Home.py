@@ -10,9 +10,9 @@ with col2:
     st.write("##### Hi, I'm Dee, and I'm an aspiring Data Analyst/Scientist. I'm driven "
                  "to learn new things and to solve challenging problems.")
     about_me = """
-    As a recent computer science graduate with a passion for data science I have dedicated myself to learning the 
-    most powerful tools and techniques in the field, honing my skills through a combination of coursework, 
-    independent learning, and personal projects. In doing so I have developed advanced skills in data preprocessing, 
+    As a recent computer science graduate with a passion for data science I have dedicated myself to learning the tools 
+    and techniques of data science and analytics, honing my skills through a combination of coursework, independent 
+    learning, and personal projects. In doing so I have developed advanced skills in data preprocessing, 
     data analysis, data visualization, and machine learning. I primarily work in Python but I am also a competent Java 
     programmer. 
 
