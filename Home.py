@@ -18,7 +18,7 @@ with col2:
 
     I am a highly conscientious, dedicated individual who is committed to delivering high-quality work that provides 
     valuable and actionable insights. I am a strong team player who enjoys collaborating with others to tackle complex 
-    problems. I am excited to bring my skills and enthusiasm for data science to a challenging and rewarding position in 
+    problems. I am excited to bring my skills and enthusiasm for analysis to a challenging and rewarding position in 
     the field.
     """
     st.write(about_me)
