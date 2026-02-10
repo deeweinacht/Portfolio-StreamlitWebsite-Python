@@ -4,8 +4,6 @@ st.set_page_config(page_title='Dee Weinacht - Home', layout='wide')
 st.header('Dee Weinacht')
 
 col1, col2 = st.columns(2)
-with col1:
-    
 with col2:
     st.write("##### Hi, I'm Dee, and I'm an aspiring Data Analyst/Scientist. I'm driven "
                  "to learn new things and to solve challenging problems.")
