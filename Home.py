@@ -4,13 +4,16 @@ st.set_page_config(page_title='Dee Weinacht - Home', layout='wide')
 st.header('Dee Weinacht')
 
 moved_message = """
-This portfolio has moved!
+### This portfolio has moved!
 
 See my new portfolio page [https://dee-weinacht.carrd.co/](here)
 
 View my GitHub [https://github.com/deeweinacht/](here)
 
 My latest work includes SQL, Python, ETL, dashboards, and analytics engineering projects.
+
+
+
 """
 
 
