@@ -6,22 +6,20 @@ st.header('Dee Weinacht')
 moved_message = """
 ### This portfolio has moved!
 
-See my new portfolio page [https://dee-weinacht.carrd.co/](here)
+[View my current data portfolio](https://dee-weinacht.carrd.co/)
 
-View my GitHub [https://github.com/deeweinacht/](here)
+[Visit my GitHub profile](https://github.com/deeweinacht/)
 
 My latest work includes SQL, Python, ETL, dashboards, and analytics engineering projects.
-
-
-
-
-
-
-Old content follows:
 """
 
-
 st.write(moved_message)
+
+st.write("")
+
+st.write("")
+
+st.write("### About Me")
 
 about_me = """
     As a recent computer science graduate with a passion for data science I have dedicated myself to learning the tools 
