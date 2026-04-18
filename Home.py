@@ -3,11 +3,20 @@ import streamlit as st
 st.set_page_config(page_title='Dee Weinacht - Home', layout='wide')
 st.header('Dee Weinacht')
 
-col1, col2 = st.columns(2)
-with col2:
-    st.write("##### Hi, I'm Dee, and I'm an aspiring Data Analyst/Scientist. I'm driven "
-                 "to learn new things and to solve challenging problems.")
-    about_me = """
+moved_message = """
+This portfolio has moved!
+
+See my new portfolio page [https://dee-weinacht.carrd.co/](here)
+
+View my GitHub [https://github.com/deeweinacht/](here)
+
+My latest work includes SQL, Python, ETL, dashboards, and analytics engineering projects.
+"""
+
+
+st.write(moved_message)
+
+about_me = """
     As a recent computer science graduate with a passion for data science I have dedicated myself to learning the tools 
     and techniques of data science and analytics, honing my skills through a combination of coursework, independent 
     learning, and personal projects. In doing so I have developed advanced skills in data preprocessing, 
@@ -19,12 +28,4 @@ with col2:
     problems. I am excited to bring my skills and enthusiasm for analysis to a challenging and rewarding position in 
     the field.
     """
-    st.write(about_me)
-
-st.write("")
-
-site_about = """
-This portfolio site includes several projects that demonstrate my skills and knowledge
- in python and data science. Please take some time to take a look!
-"""
-st.write(site_about)
+st.write(about_me)
